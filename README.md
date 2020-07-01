@@ -2,11 +2,11 @@
 It is a seq2seq encoder decoder chatbot using keras and with attention
 
  <h1>files</h1>
- <p>
-        chatbot.py  :-  This is file to run <b>chatbot</b> using the saved model
-        ipynb file  :-  This file is all in one you just need below datasets to run it Hopefully with no errors.
-                         it also saves the model in h5 format
-</p>
+<ol>
+ <li>chatbot.py  :-  This is file to run <b>chatbot</b> using the saved model</li>
+        <li>ipynb file  :-  This file is all in one you just need below datasets to run it Hopefully with no errors.
+         it also saves the model in h5 format</li>
+</ol>
 
 <b>thanks to thushv89</b> https://github.com/thushv89/attention_keras for attention layer all credit for <b> Attention Layer</b> layer class goes him
 

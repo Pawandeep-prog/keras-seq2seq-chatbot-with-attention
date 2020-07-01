@@ -10,4 +10,4 @@ goto here : https://www.kaggle.com/programminghut/seq2seq-chatbot-keras-with-att
 
 chatbot.py is the python file to run locally using the saved model.
 
-
+<img src='example_chat.JPG'>

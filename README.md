@@ -19,7 +19,7 @@ It is a seq2seq encoder decoder chatbot using keras and with attention
 <h1> Datasets used : </h1>
 <ol>
   <li>glove6b 50d : https://www.kaggle.com/watts2/glove6b50dtxt </li>
-  <li>cornell movie :  https://www.kaggle.com/watts2/glove6b50dtxt </li>
+  <li>cornell movie :  https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html </li>
 </ol>
 
 chatbot.py is the python file to run locally using the saved model.
